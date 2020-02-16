@@ -1,4 +1,4 @@
-# Ax2009 DotNetFramework 4 Support
+# Ax2009 .Net Framework 4 Support
 Add .NET Framework 4 support to Ax2009
 
 По мотивам http://axforum.info/forums/showthread.php?p=413479#post413479
@@ -7,7 +7,7 @@ Add .NET Framework 4 support to Ax2009
 Чтобы из программного кода можно было обращаться к .NET Framework более высоких версий - нужно внести следующие изменения :
 - в каталог `Bin` АОСа скопировать файл `ax32Serv.exe.config`
 - в каталог `Bin` клиента скопировать файл `ax32.exe.config`
-И перезапустить АОС.
+- перезапустить АОС.
 
 Содержимое файлов :
 ```
